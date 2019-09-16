@@ -1,2 +1,2 @@
 # PythonDemos
-Short demos of Python code
+Short/simple demos to illustrate Python syntax
