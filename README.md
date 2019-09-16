@@ -1,10 +1,10 @@
 # PythonDemos
 Short/simple demos to illustrate Python syntax. To get started,
 
-1. Install anaconda from here: https://www.anaconda.com/distribution/
+1. install anaconda from here: https://www.anaconda.com/distribution/
 
-2. Next, open up jupyter notebooks.
+2. open up jupyter notebooks.
 
-3. Create a new jupyter notebook 
+3. create a new jupyter notebook 
 
-4. Write print("hello world") and then press shift+enter
+4. write print("hello world") and then press shift+enter.
