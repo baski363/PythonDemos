@@ -1,5 +1,5 @@
 # PythonDemos
-Short/simple demos to illustrate Python syntax. To get started,
+Short demos to illustrate Python syntax. To get started,
 
 1. install anaconda from here: https://www.anaconda.com/distribution/
 
